@@ -4,11 +4,11 @@ Welcome to my Power BI Projects Repository! Within this repository, you'll find 
 ## Projects
 1. [Hospitality Revenue Insights](https://github.com/tomaraayushi/PowerBI_Projects/blob/main/Hospitality%20Revenue%20Insights.pdf)
 
-   * Decription: Analysis of a hotel-chain for revenue growth opportunities
-   * Technologies Used: Power BI and Power Query
-   * Result: Dynamic pricing analysis revealed that optimizing the booking window is crucial for maximizing room occupancy and revenue.
+   - **Decription:** Analysis of a hotel-chain for revenue growth opportunities
+   - **Technologies Used:** Power BI and Power Query
+   - **Result:** Dynamic pricing analysis revealed that optimizing the booking window is crucial for maximizing room occupancy and revenue.
 
 2. [Telecom Customer Churn Analysis](https://github.com/tomaraayushi/PowerBI_Projects/blob/main/Telecom%20Customer%20Churn%20Analysis.pdf)
-   * Description: Analyzed a telecom customer churn dataset to understand customer behavior and retention patterns.
-   * Technologies Used: Utilized Power BI for comprehensive data analysis and visualization.
-   * Result: Recommended strategic adjustments: offering discounts on long-term contracts, tailoring plans for senior customers with limited data needs, and introducing international call packages for users with and without existing international plans, based on detailed analysis of telecom customer churn dataset.
+   - **Description:** Analyzed a telecom customer churn dataset to understand customer behavior and retention patterns.
+   - **Technologies Used:** Utilized Power BI for comprehensive data analysis and visualization.
+   - **Result:** Recommended strategic adjustments: offering discounts on long-term contracts, tailoring plans for senior customers with limited data needs, and introducing international call packages for users with and without existing international plans, based on detailed analysis of telecom customer churn dataset.
